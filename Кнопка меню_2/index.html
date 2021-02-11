@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+</head>
+    <title>Меню-гамбургер</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&amp;display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="js/script.js">
+</head>
+<body>
+<header class = "header">
+    <div class="container header__container">
+        <div class="menu-burger__header">
+            <span></span>
+        </div>
+        <nav class="header__nav">
+            <ul class="menu header__menu">
+                <li><a href="" class="menu__item">Главная</a></li>
+                <li><a href="" class="menu__item">Товары</a></li>
+                <li><a href="" class="menu__item">Акции</a></li>
+                <li><a href="" class="menu__item">Новинки</a></li>
+                <li><a href="" class="menu__item">Доставка</a></li>
+                <li><a href="" class="menu__item">Контакты</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+<div class="content-wrapper">
+    <div class = "container content-wrapper__container">
+        <p>
+            Кракозябры на сайте — это не что иное, как неверная интерпретация браузером информации, сохраненной в Вашем файле. В двух словах опишу суть процесса: прежде чем сохранить, к примеру, html-файл, компьютер с помощью кодировочных таблиц переводит каждый символ на свой «компьютерный язык», который состоит из единиц и нулей. И только после этого тщательно сохраняет полученные последовательности ноликов и единичек в ячейках памяти. Когда мы открываем файл в браузере, браузер также «достает из широких штанин» кодировочные таблицы и переводит каждый символ обратно с компьютерного языка на человеческий. И если кодировочные таблицы, в соответствии с которыми браузер отображает символы при открытии файла, отличаются от кодировочных таблиц, которые использовались при сохранении файла, появляются кракозябры.
+        </p> 
+       <p>
+           Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, consectetur nisi error possimus beatae aut, in minus sunt quisquam doloremque optio inventore iste hic explicabo, eligendi facilis saepe vero porro modi! Ad quos omnis praesentium nisi culpa recusandae molestias rerum, perspiciatis, accusantium tempora suscipit commodi temporibus itaque qui repudiandae eos facilis dolore dolores consectetur minus nesciunt perferendis ea cupiditate. Distinctio veritatis aliquam, corporis nemo ipsum est quos eveniet quo ratione nisi numquam perferendis, unde velit reiciendis totam inventore adipisci deserunt officiis esse! Illum ratione, esse ea delectus beatae officia labore dolores obcaecati maiores tempora fuga voluptatem asperiores quam vitae expedita porro quibusdam? Tenetur cum voluptates ut obcaecati hic perspiciatis itaque magni eveniet, illo nemo soluta omnis ab quia minima, mollitia a unde cumque corrupti iure debitis molestiae? Nobis laudantium suscipit consequatur deserunt voluptatum nesciunt repellendus tempora excepturi quasi, obcaecati eligendi eaque necessitatibus cum reprehenderit perspiciatis harum provident in ea sit et ipsum deleniti earum libero! Error odio, deleniti facere quia veniam in mollitia voluptates ipsum, tempore obcaecati recusandae magnam. Cupiditate a quam officiis ex accusamus vitae animi iste quos magnam illo quasi commodi impedit libero delectus velit, doloremque perferendis. Ipsa mollitia facilis assumenda voluptate officia, nulla numquam nam debitis animi ab cupiditate voluptas eos quasi, eaque, eveniet quod optio modi ea! Iste atque in culpa placeat cupiditate porro nihil asperiores! Laudantium nostrum similique magnam, maiores nemo recusandae accusantium porro, ducimus rerum ad aliquid eveniet, dolores ipsam perspiciatis libero! Deserunt placeat delectus sunt cupiditate? Repellat repellendus similique laudantium debitis numquam esse suscipit officia, consequuntur quisquam assumenda quo adipisci reprehenderit doloribus, dolores quia a commodi veritatis? At ea placeat aut. Doloribus repellat vitae optio quae incidunt! Labore cum sed aut quaerat. Nostrum quaerat expedita officia, quo consequatur ad dolore cumque saepe voluptatem ut deserunt mollitia velit, sequi eaque voluptates eius molestiae nam quod. Eos molestias ab doloribus rem, quae sit provident odio non placeat impedit. Atque sunt dignissimos repellendus iure, tempora aliquam ex error. Consectetur ducimus vel, pariatur, exercitationem suscipit quia repudiandae repellendus sint unde et eveniet labore quidem odio dignissimos sapiente molestiae nihil dolore possimus? Necessitatibus, omnis harum vel eius ullam tempora earum dicta sit sint iure accusamus praesentium magnam asperiores, animi facilis ducimus architecto inventore, perferendis eveniet sunt saepe debitis commodi numquam! Fuga atque, mollitia eius voluptate dicta voluptates vitae eveniet saepe magnam corrupti ipsam necessitatibus quasi ullam! Voluptatibus, totam! Cupiditate vitae perferendis error omnis, consectetur suscipit neque! Odio suscipit corporis assumenda laboriosam nam mollitia placeat! Consectetur aliquam labore numquam ipsa repellat esse ut iste vel autem amet placeat totam qui harum nulla assumenda beatae optio, voluptas maiores nostrum soluta aperiam. Rem quibusdam corporis hic eos modi incidunt voluptate ut quos fugit accusamus placeat cum, at, dignissimos ducimus deleniti culpa obcaecati. Odit ipsum quia pariatur quisquam reiciendis placeat mollitia, labore maiores ab voluptatibus maxime illum temporibus commodi ipsam architecto veritatis eveniet! Quia nostrum fugiat inventore expedita dignissimos praesentium beatae placeat iure non illo doloremque, magni, laudantium ratione sint qui quidem in voluptatem eius aspernatur sit repellendus assumenda, accusantium molestiae! Autem.
+       </p>     
+    </div>    
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="js/script.js"></script>
+</body>
+</html>
