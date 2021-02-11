@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css" type="text/css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto&amp;display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="js/script.js">
+    <link rel="stylesheet" href="ctyle.css">
+    <link rel="stylesheet" href="jscript.js">
 </head>
 <body>
 <header class = "header">
